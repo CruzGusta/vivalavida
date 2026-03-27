@@ -11,10 +11,9 @@ header {
     align-items: center;
 }
 
-.logo {
-    color: var(--verde);
-    font-size: 1.5rem;
-    font-weight: bold;
+.logo img {
+    height: 60px;
+    width: auto;
 }
 
 .nav-links {
